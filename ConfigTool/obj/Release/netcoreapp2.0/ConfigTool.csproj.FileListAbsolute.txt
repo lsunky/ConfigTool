@@ -1,0 +1,13 @@
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Release\netcoreapp2.0\ConfigTool.deps.json
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Release\netcoreapp2.0\ConfigTool.runtimeconfig.json
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Release\netcoreapp2.0\ConfigTool.runtimeconfig.dev.json
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Release\netcoreapp2.0\ConfigTool.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Release\netcoreapp2.0\ConfigTool.pdb
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Release\netcoreapp2.0\LitJson.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.csprojAssemblyReference.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.csproj.CoreCompileInputs.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.AssemblyInfoInputs.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.AssemblyInfo.cs
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.csproj.CopyComplete
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Release\netcoreapp2.0\ConfigTool.pdb

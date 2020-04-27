@@ -1,0 +1,16 @@
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\ConfigTool.exe
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\ConfigTool.deps.json
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\ConfigTool.runtimeconfig.json
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\ConfigTool.runtimeconfig.dev.json
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\ConfigTool.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\ConfigTool.pdb
+E:\workSpace\CSharp\ConfigTool\ConfigTool\bin\Debug\netcoreapp2.0\win10-x64\LitJson.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.csprojAssemblyReference.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.csproj.CoreCompileInputs.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.AssemblyInfoInputs.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.AssemblyInfo.cs
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.csproj.CopyComplete
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.dll
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp2.0\win10-x64\ConfigTool.pdb

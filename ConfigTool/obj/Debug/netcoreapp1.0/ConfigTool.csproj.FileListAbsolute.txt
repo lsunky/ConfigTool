@@ -1,0 +1,4 @@
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp1.0\ConfigTool.csprojAssemblyReference.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp1.0\ConfigTool.csproj.CoreCompileInputs.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp1.0\ConfigTool.AssemblyInfoInputs.cache
+E:\workSpace\CSharp\ConfigTool\ConfigTool\obj\Debug\netcoreapp1.0\ConfigTool.AssemblyInfo.cs
